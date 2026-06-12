@@ -46,3 +46,5 @@ My naming convention for my servers has been named by my niece. They are anime c
 - Study Notes - Linux Course Notes
 - Nezuko - Server Documentation
 - Rack Build - Planning and progress.
+  - 12/06/2026 / [Rack Build](rack-build/README.md)
+
