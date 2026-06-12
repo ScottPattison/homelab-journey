@@ -42,7 +42,7 @@ My naming convention for my servers has been named by my niece. They are anime c
 
 ## Contents
     - Journal - Learning Updates.
-        - 12/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
+      - 12/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
     - Study Notes - Linux Course Notes
     - Nezuko - Server Documentation
     - Rack Build - Planning and progress.
