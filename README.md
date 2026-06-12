@@ -24,25 +24,25 @@ I am currently completing Misha van den Burg's Free Linux Course, with the hope 
 My naming convention for my servers has been named by my niece. They are anime characters, so the laptop server is named 'Nezuko' from Demon Slayer!. My future raspberry pi 5 setup will be called MilimNava (That time I was reincarnated as a slime) and finally the Mini Pc setup will be called Shalltear (Overlord). Looks like all my servers will be run by Demon Queens, yikes!!!
 
 ### Main PC
-    - Intel Core i7-14700
-    - 32GB RAM
-    - Nvidia Geforce RTX 4070 Ti Super
+- Intel Core i7-14700
+- 32GB RAM
+- Nvidia Geforce RTX 4070 Ti Super
 
 ### Nezuko (Home Server)
-    - OMEN HP Laptop running headlessly
-    - Intel Core i7-10750H @ 5GHz
-    - 16GB RAM
-    - Nvidia Geforce RTX 2060 Mobile
-    - OS: Ubuntu 26.04 LTS
-    - Running: Jellyfin, Docker, Tailscale, SSH
+- OMEN HP Laptop running headlessly
+- Intel Core i7-10750H @ 5GHz
+- 16GB RAM
+- Nvidia Geforce RTX 2060 Mobile
+- OS: Ubuntu 26.04 LTS
+- Running: Jellyfin, Docker, Tailscale, SSH
 
 ### Coming Soon
-    - MilimNava (That time I was reincarnated as a Slime) - Raspberry Pi 5.
-    - Shalltear (Overlord) - Beelink Mini PC, Proxmox.
+- MilimNava (That time I was reincarnated as a Slime) - Raspberry Pi 5.
+- Shalltear (Overlord) - Beelink Mini PC, Proxmox.
 
 ## Contents
-    - Journal - Learning Updates.
-      - 12/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
-    - Study Notes - Linux Course Notes
-    - Nezuko - Server Documentation
-    - Rack Build - Planning and progress.
+- Journal - Learning Updates.
+  - 12/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
+- Study Notes - Linux Course Notes
+- Nezuko - Server Documentation
+- Rack Build - Planning and progress.
