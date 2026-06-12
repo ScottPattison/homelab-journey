@@ -21,7 +21,7 @@ I am currently completing Misha van den Burg's Free Linux Course, with the hope 
 
 ## Infrastructure
 
-My naming convention for my servers is from my niece, anime characters, so the laptop server is named 'Nezuko' from Demon Slayer!. Looks like all my servers will be run by Demon Queens, yikes!!!
+My naming convention for my servers has been named by my niece. They are anime characters, so the laptop server is named 'Nezuko' from Demon Slayer!. My future raspberry pi 5 setup will be called MilimNava (That time I was reincarnated as a slime) and finally the Mini Pc setup will be called Shalltear (Overlord). Looks like all my servers will be run by Demon Queens, yikes!!!
 
 ### Main PC
     - Intel Core i7-14700
