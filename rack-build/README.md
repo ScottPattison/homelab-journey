@@ -26,5 +26,7 @@ Cable Matters 5pk 0.3m Cat6 Cables
 Beelink EQ12 (N100, 16GB, 500GB SSD)
 GeeekPi 1U Mini PC Rack Shelf
 
-Current Setup
-(photos here)
+### Current Setup
+![Server](images/Current_Setup_Server.jpg)
+![Windows Main PC](images/Current_Setup_WindowsMain.jpg)
+
