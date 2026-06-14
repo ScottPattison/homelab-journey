@@ -7,10 +7,10 @@ Journaling my descent down the homelabbing, Linux and networking rabbit hole.
 
 ### Study Notes - Linux Course Notes
   - 14/06/2026 - [User, Groups and Permissions](study-notes/LinuxAdv_Chapter_09_Users_Groups_Permissions.pdf)
-  - 14/06/2026 - [Vim Basics](study-notes/AdvLinux_Chapter_10_Vim_Basics.pdf)
-  - 14/06/2026 - [Input / Outputs and Pipes](study-notes/AdvLinux_Chapter_11_IO_Pipes.pdf)
-  - 14/06/2026 - [Processes](study-notes/AdvLinux_Chapter_12_Processes.pdf)
-  - 14/06/2026 - [Secure SHell - SSH](study-notes/AdvLinux_Chapter_13_SSH.pdf)
+  - 14/06/2026 - [Vim Basics](study-notes/LinuxAdv_Chapter_10_Vim_Basics.pdf)
+  - 14/06/2026 - [Input / Outputs and Pipes](study-notes/LinuxAdv_Chapter_11_IO_Pipes.pdf)
+  - 14/06/2026 - [Processes](study-notes/LinuxAdv_Chapter_12_Processes.pdf)
+  - 14/06/2026 - [Secure SHell - SSH](study-notes/LinuxAdv_Chapter_13_SSH.pdf)
 
 ### Nezuko - Server Documentation
 
