@@ -4,6 +4,7 @@ Journaling my descent down the homelabbing, Linux and networking rabbit hole.
 ## Contents
 ### Journal - Learning Updates.
   - 11/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
+  - 14/06/2026 - [June Journal Entry](journal/Journal_June_2026.pdf)
 
 ### Study Notes - Linux Course Notes
   - 14/06/2026 - [User, Groups and Permissions](study-notes/LinuxAdv_Chapter_09_Users_Groups_Permissions.pdf)
