@@ -16,8 +16,6 @@ Journaling my descent down the homelabbing, Linux and networking rabbit hole.
   - 14/06/2026 - [Processes](study-notes/LinuxAdv_Chapter_12_Processes.pdf)
   - 14/06/2026 - [Secure SHell - SSH](study-notes/LinuxAdv_Chapter_13_SSH.pdf)
 
-### Nezuko - Server Documentation
-
 ### Rack Build - Planning and progress.
   - 11/06/2026 - [Rack Build](rack-build/README.md)
 
