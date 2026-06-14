@@ -26,16 +26,16 @@ So - recovering from a 3rd transplant, unexpectedly unemployeed, and with more t
   - 14/06/2026 - [Secure SHell - SSH](study-notes/LinuxAdv_Chapter_13_SSH.pdf)
 
 ## Rack Build - Planning and progress.
-  - 11/06/2026 - [Rack Build](rack-build/README.md)
-  - 14/06/2026 - [Current Setup](rack-build/Current_Setup.pdf)
+  - 11/06/2026 - [Current Setup](rack-build/Current_Setup.pdf)
+  - 14/06/2026 - [Rack Build](rack-build/README.md)
 
 ## Guides - Linux Server setups and Git workflow guides.
   - 12/06/2026 - [Setting up a Linux Server, with No Router Access](guides/Guide_1_Linux_Server_Setup_No_Router_Access.pdf)
-  - 12/06/2026 - [Setting up a Linux Server with Router Access](guides/Guide_2_Linux_Server_Setup_With_Router_Access)
+  - 12/06/2026 - [Setting up a Linux Server with Router Access](guides/Guide_2_Linux_Server_Setup_With_Router_Accessi.pdf)
   - 13/06/2026 - [Creating and using a GitHub Repository](guides/Guide_3_GitHub_Workflow.pdf)
   - 14/06/2026 - [SSH Key Authentication Guide](guides/SSH_Key_Authentication_Guide.pdf)
 
 ## Reference - Quick reference guides and cheat sheets.
   - 13/06/2026 - [Linux Troubleshooting Reference](reference/Linux_Troubleshooting_Reference.pdf)
-  - 13/06/2026 - [Linux Troubleshooting Flowchart](reference/Linux_Troubleshooting_Flowchart.svg)* Click on Raw to see Full Size
+  - 13/06/2026 - [Linux Troubleshooting Flowchart](reference/Linux_Troubleshooting_Flowchart.svg) Click on Raw to see Full Size
 
