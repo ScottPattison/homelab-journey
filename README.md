@@ -15,7 +15,7 @@ So - recovering from a 3rd transplant, unexpectedly unemployeed, and with more t
   - 11/06/2026 - [Why I started this journey](journal/why-im-doing-this.md)
   - 14/06/2026 - [June Journal Entry](journal/Journal_June_2026.pdf)
       ### Simulations - AI Simulated learning exercises
-          - 15/06/2026 - [Sys Admin Incident Report 1](journal/simulations/Sysadmin_Simulation_Incident_Report.pdf)
+      - 15/06/2026 - [Sys Admin Incident Report 1](journal/simulations/Sysadmin_Simulation_Incident_Report.pdf)
 
 ## My Plan - Whats in the Future!
   - 14/06/2026 - [My Plan](my-plan/My_Plan.pdf)
