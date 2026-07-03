@@ -27,6 +27,7 @@ So - recovering from a 3rd transplant, unexpectedly unemployeed, and with more t
   - 14/06/2026 - [Processes](study-notes/LinuxAdv_Chapter_12_Processes.pdf)
   - 14/06/2026 - [Secure SHell - SSH](study-notes/LinuxAdv_Chapter_13_SSH.pdf)
   - 23/06/2026 - [Tmux, How to use](study-notes/LinuxAdv_Chapter_14_Tmux.pdf)
+  - 03/07/2026 - [Finding, Monitoring, Managing Processes](study-notes/LinuxAdv_Processes_Finding_Monitoring_managing.pdf)
 
 ## Rack Build - Planning and progress.
   - 11/06/2026 - [Current Setup](rack-build/Current_Setup.pdf)
